@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://kaliteplayer9.com/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <!-- IPTV Satın Al Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/iptv-satin-al</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- IPTV Test Sayfası (Özel Klasör Yapısı) -->
+  <url>
+    <loc>https://kaliteplayer9.com/buying/test</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- IPTV Fiyatları Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/iptv-fiyatlari</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- IPTV Donma Çözümü Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/iptv-donma-cozumu</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- IPTV Nedir Bilgi Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/iptv-nedir</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Smart TV Kurulum Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/smart-tv-kurulumu</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Android Box Kurulum Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/android-box-kurulumu</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Firestick Kurulum Sayfası -->
+  <url>
+    <loc>https://kaliteplayer9.com/firestick-kurulumu</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+</urlset>

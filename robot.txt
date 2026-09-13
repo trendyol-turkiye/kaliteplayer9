@@ -1,0 +1,15 @@
+Plaintext
+User-agent: *
+Allow: /
+Allow: /iptv-satin-al
+Allow: /buying/test
+Allow: /iptv-fiyatlari
+Allow: /iptv-donma-cozumu
+Allow: /iptv-nedir
+Allow: /smart-tv-kurulumu
+Allow: /android-box-kurulumu
+Allow: /firestick-kurulumu
+
+
+# Güncel Sitemap Adresi
+Sitemap: https://kaliteplayer9.com/sitemap.xml
